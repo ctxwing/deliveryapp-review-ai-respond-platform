@@ -1,0 +1,18 @@
+# 자격증명 — 절대 커밋 금지 (경로 변경 금지)
+2_ctx/secret/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 임시 파일
+*.tmp
+*.log
+__pycache__/
+.env
